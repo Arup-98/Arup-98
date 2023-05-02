@@ -54,9 +54,9 @@
 - Coffee Heaven[https://rainbow-pixie-ccbdb2.netlify.app/] (https://rainbow-pixie-ccbdb2.netlify.app/)
 <hr>
 <h3 align="left">📝 Blogs and writing</h3>
-- Coding is fun? [https://medium.com/@arupchakraborty153/coding-is-fun-e9d56ada1200](https://medium.com/@arupchakraborty153/coding-is-fun-e9d56ada1200)
+- Coding is fun? [https://medium.com/@arupchakraborty153/coding-is-fun-e9d56ada1200]
 
-- How to master your competitive programming skills [https://medium.com/@arupchakraborty153/how-to-master-your-competitive-programming-skills-2a7e21a766e1(https://medium.com/@arupchakraborty153/how-to-master-your-competitive-programming-skills-2a7e21a766e1)
+- How to master your competitive programming skills [https://medium.com/@arupchakraborty153/how-to-master-your-competitive-programming-skills-2a7e21a766e1]
 <hr>
 
 <h3 align="left">🔗Connect with me:</h3>
