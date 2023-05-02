@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Spring Boot,Java2EE,DSA**
 
-- 👨‍💻 All of my projects are available at [https://arupchakraborty.netlify.app/](https://arupchakraborty.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/arup99-glitch/Web-SIte-Link">GitHub</a>
 
 - 💬 Ask me about **cp,dsa,oop,reactjs,nodejs,java,javascript,c,c++,mongodb,firebase,mysql**
 
 - 📫 How to reach me **arupchakraborty153@gmail.com**
 
-- 📄 Know about my experiences [https://arupchakraborty.netlify.app/](https://arupchakraborty.netlify.app/)
+- 📄 Know about my experiences <a href="https://arupchakraborty.netlify.app/">Porrfolio</a>
  <hr>
 
 <h3 align="left">💻Work Experience</h3>
@@ -41,24 +41,24 @@
 
 <h3 align="left">🗃️Project</h3>
 
-- Girls World [https://gracious-lumiere-199c85.netlify.app/](https://gracious-lumiere-199c85.netlify.app/)
+- <a href="https://gracious-lumiere-199c85.netlify.app/">Girls World</a>
 
-- Carvana-website [https://carnava-by-arup.netlify.app/](https://carnava-by-arup.netlify.app/)
+- <a href="https://carnava-by-arup.netlify.app/">Carvana-website</a>
 
-- Winter Vaccation [https://winter-vaccation-f113e.web.app/](https://winter-vaccation-f113e.web.app/)
+- <a href="https://winter-vaccation-f113e.web.app/">Winter Vaccation</a>
 
-- Smart Shopping Cart [https://strong-torrone-1310bd.netlify.app/](https://strong-torrone-1310bd.netlify.app/)
+- <a href="https://strong-torrone-1310bd.netlify.app/">Smart Shopping Cart</a>
 
-- Customize your Blue 24-Inch iMac with Apple M1 chip [https://brave-fermat-892561.netlify.app/](https://brave-fermat-892561.netlify.app/)
+- <a href="https://brave-fermat-892561.netlify.app/">Customize your Blue 24-Inch iMac with Apple M1 chip</a>
 
-- Coffee Heaven[https://rainbow-pixie-ccbdb2.netlify.app/] (https://rainbow-pixie-ccbdb2.netlify.app/)
+- <a href="https://rainbow-pixie-ccbdb2.netlify.app/">Coffee Heaven</a>
 <hr>
 <h3 align="left">📝 Blogs and writing</h3>
 
-- Coding is fun? [https://medium.com/@arupchakraborty153/coding-is-fun-e9d56ada1200]
+- <a href="https://medium.com/@arupchakraborty153/coding-is-fun-e9d56ada1200">Code is Fun?<a>
+ 
 - <a href="https://medium.com/@arupchakraborty153/how-to-master-your-competitive-programming-skills-2a7e21a766e1">Master your competitive programming</a>
 
--Master your competitive programming[https://medium.com/@arupchakraborty153/how-to-master-your-competitive-programming-skills-2a7e21a766e1]
 <hr>
 
 <h3 align="left">🔗Connect with me:</h3>
