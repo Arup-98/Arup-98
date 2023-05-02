@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Spring Boot,Java2EE,DSA**
 
-- 👨‍💻 All of my projects are available at [https://gracious-lumiere-199c85.netlify.app/](https://gracious-lumiere-199c85.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://arupchakraborty.netlify.app/](https://arupchakraborty.netlify.app/)
 
 - 💬 Ask me about **cp,dsa,oop,reactjs,nodejs,java,javascript,c,c++,mongodb,firebase,mysql**
 
 - 📫 How to reach me **arupchakraborty153@gmail.com**
 
-- 📄 Know about my experiences [https://gracious-lumiere-199c85.netlify.app/](https://gracious-lumiere-199c85.netlify.app/)
+- 📄 Know about my experiences [https://arupchakraborty.netlify.app/](https://arupchakraborty.netlify.app/)
  <hr>
 
 <h3 align="left">💻Work Experience</h3>
@@ -41,17 +41,17 @@
 
 <h3 align="left">🗃️Project</h3>
 
-- Girls World[[https://gracious-lumiere-199c85.netlify.app/]
+- Girls World[https://gracious-lumiere-199c85.netlify.app/](https://gracious-lumiere-199c85.netlify.app/)
 
-- Carvana-website[https://carnava-by-arup.netlify.app/]
+- Carvana-website[https://carnava-by-arup.netlify.app/](https://carnava-by-arup.netlify.app/)
 
-- Winter Vaccation[https://winter-vaccation-f113e.web.app/]
+- Winter Vaccation[https://winter-vaccation-f113e.web.app/](https://winter-vaccation-f113e.web.app/)
 
-- Smart Shopping Cart[https://strong-torrone-1310bd.netlify.app/]
+- Smart Shopping Cart[https://strong-torrone-1310bd.netlify.app/](https://strong-torrone-1310bd.netlify.app/)
 
-- Customize your Blue 24-Inch iMac with Apple M1 chip[https://brave-fermat-892561.netlify.app/]
+- Customize your Blue 24-Inch iMac with Apple M1 chip[https://brave-fermat-892561.netlify.app/](https://brave-fermat-892561.netlify.app/)
 
-- Coffee Heaven[https://rainbow-pixie-ccbdb2.netlify.app/]
+- Coffee Heaven[https://rainbow-pixie-ccbdb2.netlify.app/](https://rainbow-pixie-ccbdb2.netlify.app/)
 <hr>
 
 <h3 align="left">🔗Connect with me:</h3>
