@@ -1,6 +1,6 @@
 <img width="100%" height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="arup" /> 
 <h1 align="center">Hi 👋, I'm Arup Chakraborty</h1>
-<h3 align="center">A passionate Developer from Bangladesh</h3>
+<h3 align="center">I have been involved in web development for a year and also doing Competitive Programming. I also have problem solving mindset.If you give me chance, I want to show up my problem solving knowledge and skill,s.</h3>
 <hr>
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=Arup-98&label=Profile%20views&color=0e75b6&style=flat" alt="Arup-98" /><p> 
