@@ -56,6 +56,7 @@
 <h3 align="left">📝 Blogs and writing</h3>
 
 - Coding is fun? [https://medium.com/@arupchakraborty153/coding-is-fun-e9d56ada1200]
+- <a href="https://medium.com/@arupchakraborty153/how-to-master-your-competitive-programming-skills-2a7e21a766e1">Master your competitive programming</a>
 
 -Master your competitive programming[https://medium.com/@arupchakraborty153/how-to-master-your-competitive-programming-skills-2a7e21a766e1]
 <hr>
