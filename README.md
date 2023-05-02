@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **arupchakraborty153@gmail.com**
 
-- 📄 Know about my experiences <a href="https://arupchakraborty.netlify.app/">Porrfolio</a>
+- 📄 Know about my experiences <a href="https://arupchakraborty.netlify.app/">Portfolio</a>
  <hr>
 
 <h3 align="left">💻Work Experience</h3>
