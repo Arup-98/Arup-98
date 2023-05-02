@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Developer from Bangladesh</h3>
 <hr>
 
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=arup99-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Arup-98" /><p> 
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=Arup-98&label=Profile%20views&color=0e75b6&style=flat" alt="Arup-98" /><p> 
 
 
 
@@ -75,9 +75,9 @@
 <hr>
 <h3 align="left">📊Github Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arup99-glitch&show_icons=true&locale=en&layout=compact" alt="arup99-glitch" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arup-98&show_icons=true&locale=en&layout=compact" alt="Arup-98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arup99-glitch&show_icons=true&locale=en" alt="arup99-glitch" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arup99-glitch&show_icons=true&locale=en" alt="Arup-98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arup99-glitch&" alt="arup99-glitch" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arup99-glitch" alt="arup99-glitch" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arup-98&" alt="Arup-98" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arup-98" alt="Arup-98" /></a> </p>
