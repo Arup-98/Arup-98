@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Developer from Bangladesh</h3>
 <hr>
 
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=arup99-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="arup99-glitch" /><p> 
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=arup99-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="Arup-98" /><p> 
 
 
 
