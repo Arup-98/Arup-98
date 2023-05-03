@@ -42,16 +42,34 @@
 <h3 align="left">🗃️Project</h3>
 
 - <a href="https://gracious-lumiere-199c85.netlify.app/">Girls World</a>
+ 
+  <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router, Bootstrap,Express,MongoDB,MUI</h6>
+  <h6>Feature: SignIn,SignOut,Register,Add Cart,Delete Cart,Edit Cart,Dashboard,User History</h6>
 
 - <a href="https://carnava-by-arup.netlify.app/">Carvana-website</a>
 
+  <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router,React Bootstrap,Express,MongoDB</h6>
+  <h6>Feature: SignIn,SignOut,Register,Booking Product,Status Check,Dashboard,User History</h6>
+
 - <a href="https://winter-vaccation-f113e.web.app/">Winter Vaccation</a>
+
+  <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router, Bootstrap,Express,MongoDB</h6>
+  <h6>Feature: SignIn,SignOut,Register,Booking Vaccation,Status Check,Dashboard,User History</h6>
 
 - <a href="https://strong-torrone-1310bd.netlify.app/">Smart Shopping Cart</a>
 
+  <h6>Technology Used: React JS,React Router,Redux,css</h6>
+  <h6>Feature: Add Cart,Delete Cart,Edit Cart,StockOut,Product see in Different Order</h6>
+
 - <a href="https://brave-fermat-892561.netlify.app/">Customize your Blue 24-Inch iMac with Apple M1 chip</a>
 
+  <h6>Technology Used: Javascript,HTML,CSS</h6>
+  <h6>Feature: Choose different parts,Check the budget,Finally build it.</h6>
+
 - <a href="https://rainbow-pixie-ccbdb2.netlify.app/">Coffee Heaven</a>
+
+  <h6>Technology Used: HTML,CSS
+  <h6>Feature: Card,Card Item Modal,Frontend Design</h6>
 <hr>
 <h3 align="left">📝 Blogs and writing</h3>
 
