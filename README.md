@@ -41,7 +41,7 @@
 
 <h3 align="left">🗃️Project</h3>
 
-- <a href="https://gracious-lumiere-199c85.netlify.app/">Girls World</a>
+- <a href="https://girls-world-9147f.web.app/">Girls World</a>
  
   <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router, Bootstrap,Express,MongoDB,MUI</h6>
   <h6>Feature: SignIn,SignOut,Register,Add Cart,Delete Cart,Edit Cart,Dashboard,User History</h6>
