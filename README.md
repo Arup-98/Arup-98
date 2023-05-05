@@ -102,7 +102,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arup-98&show_icons=true&locale=en&layout=compact" alt="Arup-98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arup99-glitch&show_icons=true&locale=en" alt="Arup-98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arup-98&show_icons=true&locale=en" alt="Arup-98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arup-98&" alt="Arup-98" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arup-98" alt="Arup-98" /></a> </p>
